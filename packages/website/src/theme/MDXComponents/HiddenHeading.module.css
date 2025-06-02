@@ -1,6 +1,0 @@
-.hiddenHeading {
-  display: block;
-  position: relative;
-  top: calc(-1 * var(--ifm-navbar-height));
-  visibility: hidden;
-}

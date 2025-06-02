@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > statement > ForOfStatement > _error_ > decl-init > Error Alignment`]
-Both errored

@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > element > AccessorProperty > _error_ > modifier-override-with-no-extends > TSESTree - Error`]
-NO ERROR

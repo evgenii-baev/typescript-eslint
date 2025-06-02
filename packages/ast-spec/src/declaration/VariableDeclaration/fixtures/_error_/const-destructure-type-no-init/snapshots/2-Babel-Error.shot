@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > declaration > VariableDeclaration > _error_ > const-destructure-type-no-init > Babel - Error`]
-SyntaxError: Missing initializer in destructuring declaration. (1:18)

@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > errorRecovery > _error_ > interface-method-readonly > Babel - Error`]
-SyntaxError: 'readonly' modifier can only appear on a property declaration or index signature. (4:2)

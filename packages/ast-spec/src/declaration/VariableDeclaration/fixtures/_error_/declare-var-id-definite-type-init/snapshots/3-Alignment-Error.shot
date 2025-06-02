@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > declaration > VariableDeclaration > _error_ > declare-var-id-definite-type-init > Error Alignment`]
-Both errored

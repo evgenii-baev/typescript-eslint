@@ -1,1 +1,0 @@
-declare using { foo }: any;

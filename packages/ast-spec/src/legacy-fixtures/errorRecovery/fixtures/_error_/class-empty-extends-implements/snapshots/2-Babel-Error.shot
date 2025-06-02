@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > errorRecovery > _error_ > class-empty-extends-implements > Babel - Error`]
-SyntaxError: Unexpected reserved word 'implements'. (3:18)

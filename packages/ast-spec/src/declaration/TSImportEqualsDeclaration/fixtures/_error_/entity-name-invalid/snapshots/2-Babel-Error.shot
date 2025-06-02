@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > declaration > TSImportEqualsDeclaration > _error_ > entity-name-invalid > Babel - Error`]
-SyntaxError: Unexpected token (1:11)

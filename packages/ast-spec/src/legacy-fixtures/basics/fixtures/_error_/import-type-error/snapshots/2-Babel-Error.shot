@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > basics > _error_ > import-type-error > Babel - Error`]
-SyntaxError: A type-only import can specify a default import or named bindings, but not both. (3:0)

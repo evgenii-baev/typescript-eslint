@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > basics > _error_ > const-assertions > Babel - Error`]
-SyntaxError: Identifier 'x' has already been declared. (13:4)

@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > statement > ThrowStatement > _error_ > missing-argument > Babel - Error`]
-SyntaxError: Illegal newline after throw. (2:9)

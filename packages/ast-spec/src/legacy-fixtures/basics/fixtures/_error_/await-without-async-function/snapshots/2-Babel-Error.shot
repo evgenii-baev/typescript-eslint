@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > basics > _error_ > await-without-async-function > Babel - Error`]
-SyntaxError: Unexpected reserved word 'await'. (4:14)

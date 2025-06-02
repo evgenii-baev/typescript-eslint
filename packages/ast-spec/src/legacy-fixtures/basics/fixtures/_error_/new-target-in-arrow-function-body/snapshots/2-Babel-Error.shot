@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > legacy-fixtures > basics > _error_ > new-target-in-arrow-function-body > Babel - Error`]
-SyntaxError: `new.target` can only be used in functions or class properties. (3:16)

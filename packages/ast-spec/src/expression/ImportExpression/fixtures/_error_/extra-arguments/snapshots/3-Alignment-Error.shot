@@ -1,4 +1,0 @@
-// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
-
-exports[`AST Fixtures > expression > ImportExpression > _error_ > extra-arguments > Error Alignment`]
-Both errored

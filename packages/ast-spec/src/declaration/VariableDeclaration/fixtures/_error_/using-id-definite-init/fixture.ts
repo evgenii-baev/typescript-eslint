@@ -1,1 +1,0 @@
-using foo! = 1;
